@@ -54,6 +54,7 @@ int main(){
   printf("A[0] = %f\n", h_A[0]);
   printf("B[0] = %f\n", h_B[0]);
   printf("C[0] = %f\n", h_C[0]);
+  printf("D_C = %p,D_b=%p,h_A=%p\n",d_C,d_B,h_A);
   return 0;
 }
   
